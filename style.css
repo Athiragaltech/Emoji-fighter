@@ -1,0 +1,22 @@
+.body
+{
+    background-image: url(img.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn
+{
+    background-color: black;
+    color: yellow;
+    font-weight: bolder;
+    font-size: xx-large;
+    border-radius: 10px;
+}
+.sp
+{
+    padding-top: 300px;
+}
+.bb
+{
+    padding-top: 350px;
+}
